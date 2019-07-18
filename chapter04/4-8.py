@@ -1,3 +1,7 @@
-# 被3整除
-threechu = [value/3 for value in range(3,31)]
-print(threechu)
+cubes = []
+for number in range(1, 11):
+    cube = number**3
+    cubes.append(cube)
+
+for cube in cubes:
+    print(cube)
