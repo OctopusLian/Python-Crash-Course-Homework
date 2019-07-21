@@ -5,12 +5,12 @@ continue_prompt = "\nWould you like to let someone else respond? (yes/no) "
 responses = {}
 
 while True:
-    name = input(name_prompt)
-    place = input(place_prompt)
+    name = raw_input(name_prompt)
+    place = raw_input(place_prompt)
 
     responses[name] = place
 
-    repeat = input(continue_prompt)
+    repeat = raw_input(continue_prompt)
     if repeat != 'yes':
         break
 
