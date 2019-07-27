@@ -34,5 +34,5 @@ if 'audi' in cars:
     print("in true")
 
 # 测试特定的值是否未包含在列表中
-if 'aaaai' in cars:
+if 'aaaai' not in cars:
     print("not in true")
