@@ -18,6 +18,7 @@
 - chapter12_武装飞船  
 - chapter13_外星人  
 - chapter14_记分  
+[项目地址](https://github.com/programming-book-practice/alien-invasion)  
 
 #### 项目2：数据可视化  
 - chapter15_生成数据  
@@ -28,3 +29,4 @@
 - chapter18_Diango入门  
 - chapter19_用户账户  
 - chapter20_设置应用程序的样式并对其进行部署  
+[项目地址](https://github.com/programming-book-practice/LearningLog)  
