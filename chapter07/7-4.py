@@ -8,4 +8,4 @@ while active:
     if message == 'quit':
         active = False
     else:
-        print('add ' + message)
+        print('Add ' + message + ".")
