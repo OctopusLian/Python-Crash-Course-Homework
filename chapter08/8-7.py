@@ -2,7 +2,7 @@ def make_album(artist, title):
     album_dict = {
         'artist': artist.title(),
         'title': title.title(),
-    }
+        }
     return album_dict
 
 album = make_album('metallica', 'ride the lightning')
