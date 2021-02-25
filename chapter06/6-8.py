@@ -4,21 +4,21 @@ pet = {
     'type': 'fish',
     'name': 'john',
     'owner': 'guido',
-}
+    }
 pets.append(pet)
 
 pet = {
     'type': 'chicken',
     'name': 'clarence',
     'owner': 'tiffany',
-}
+    }
 pets.append(pet)
 
 pet = {
     'type': 'dog',
     'name': 'peso',
     'owner': 'eric',
-}
+    }
 pets.append(pet)
 
 for pet in pets:
