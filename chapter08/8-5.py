@@ -1,5 +1,5 @@
 def describe_city(cityname,contury='china'):
-    print(cityname.title + " is in " + contury.title)
+    print(cityname.title + " is in " + contury.title + ".")
 
 describe_city('beijing')
 describe_city('NewYork','American')
