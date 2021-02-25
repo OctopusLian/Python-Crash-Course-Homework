@@ -8,7 +8,7 @@ alien = {
     'color': 'green',
     'point': 5,
     'speed': 'slow',
-}
+    }
 aliens.append(alien)
 
 alien = {
@@ -16,7 +16,7 @@ alien = {
     'color': 'yellow',
     'point': 10,
     'speed': 'med',
-}
+    }
 aliens.append(alien)
 
 alien = {
@@ -24,7 +24,7 @@ alien = {
     'color': 'red',
     'point': 10,
     'speed': 'fast',
-}
+    }
 aliens.append(alien)
 
 print(aliens)
